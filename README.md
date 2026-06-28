@@ -19,60 +19,99 @@
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+### 💻 Languages
 
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-
-### Backend
-
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+### 🎨 Frontend
 
-<p align="left">
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+</p>
+
+---
+
+### ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square"/>
+</p>
+
+---
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+---
+
+### 🛠 Tools & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square"/>
+<img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square"/>
+<img src="https://img.shields.io/badge/CI/CD-FF6F00?style=flat-square"/>
+</p>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="https://linkedin.com/in/swaroopkalunge">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:swaroopkalunge01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+&nbsp;&nbsp;
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-⭐ If you like my work, consider following me!
+### ⭐ Thanks for visiting my profile!
 
-</p>
+*"Building scalable Java applications, one commit at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
+
+</div>
