@@ -19,7 +19,9 @@
 </a>
 
 <a href="mailto:swaroopkalunge01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <span style="font-family: Arial, sans-serif; font-weight: bold; color: #EA4335; text-decoration: underline;">
+    Contact Swaroop Kalunge via Email
+  </span>
 </a>
 
 <a href="https://github.com/swaroopkalunge0110">
@@ -503,7 +505,9 @@ MySQL
 &nbsp;&nbsp;
 
 <a href="mailto:swaroopkalunge01@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <span style="font-family: Arial, sans-serif; font-weight: bold; color: #EA4335; text-decoration: underline;">
+    Contact Swaroop Kalunge via Email
+  </span>
 </a>
 
 &nbsp;&nbsp;
